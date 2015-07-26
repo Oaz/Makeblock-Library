@@ -32,6 +32,12 @@ MeRGBLed	KEYWORD1
 MePIRMotionSensor	KEYWORD1
 MeGyro	KEYWORD1
 
+MBotRGBLed	KEYWORD1
+MBotLeftWheel	KEYWORD1
+MBotRightWheel	KEYWORD1
+MBotLightSensor	KEYWORD1
+MeBuzzer	KEYWORD1
+
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
