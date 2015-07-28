@@ -1,0 +1,12 @@
+{
+    "name": "Makeblock",
+    "keywords": "robot",
+    "description": "Arduino library for Makeblock electronic modules",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/Makeblock-official/Makeblock-Library.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
